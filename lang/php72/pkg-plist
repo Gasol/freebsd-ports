@@ -246,6 +246,7 @@ lib/php/build/libtool.m4
 lib/php/build/ltmain.sh
 lib/php/build/mkdep.awk
 lib/php/build/phpize.m4
+lib/php/build/pkg.m4
 lib/php/build/run-tests.php
 lib/php/build/scan_makefile_in.awk
 lib/php/build/shtool
