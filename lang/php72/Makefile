@@ -10,9 +10,6 @@ DISTNAME=	php-${DISTVERSION}
 MAINTAINER=	tz@FreeBSD.org
 COMMENT=	PHP Scripting Language
 
-DEPRECATED=     Security Support ends on 30 Nov 2020
-EXPIRATION_DATE=        2020-12-31
-
 LICENSE=	PHP301
 
 USES+=		cpe gnome tar:xz
