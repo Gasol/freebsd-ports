@@ -1223,6 +1223,10 @@
     SUBDIR += peg
     SUBDIR += perl2html
     SUBDIR += php-mecab
+    SUBDIR += php72-ctype
+    SUBDIR += php72-xml
+    SUBDIR += php72-dom
+    SUBDIR += php72-intl
     SUBDIR += php74-ctype
     SUBDIR += php74-dom
     SUBDIR += php74-enchant

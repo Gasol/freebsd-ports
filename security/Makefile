@@ -769,6 +769,10 @@
     SUBDIR += pgpdump
     SUBDIR += pgpgpg
     SUBDIR += pgpin
+    SUBDIR += php72-hash
+    SUBDIR += php72-filter
+    SUBDIR += php72-openssl
+    SUBDIR += php72-sodium
     SUBDIR += php74-filter
     SUBDIR += php74-openssl
     SUBDIR += php74-sodium
